@@ -1,3 +1,13 @@
-# 할일 목록
+﻿# 할일 목록
+
+- Pandas 공부하기
+- Anaconda 세팅 맞추기
+
+
+
 
 # 생각해야 할 목록
+
+- Oracle 64bit Migration 문제
+- Orange vs. Toad
+
