@@ -1,7 +1,9 @@
 ﻿# 할일 목록
 
+- Oracle 64bit 재설치 + IDE툴 설치
 - Pandas 공부하기
 - Keras 숙지
+
 V Anaconda 세팅 맞추기
 
 
