@@ -1,7 +1,8 @@
 ﻿# 할일 목록
 
 - Pandas 공부하기
-- Anaconda 세팅 맞추기
+- Keras 숙지
+V Anaconda 세팅 맞추기
 
 
 
