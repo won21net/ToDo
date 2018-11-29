@@ -1,11 +1,11 @@
 ﻿# 할일 목록
 
-- Oracle 64bit 재설치 + IDE툴 설치
 - Pandas 공부하기
 - Keras 숙지
+- Dblink 생성 (동기화 쿼리 만들기)
 
-V Anaconda 세팅 맞추기
-
+v Anaconda 세팅 맞추기
+v Oracle 64bit 재설치 + IDE툴 설치
 
 
 
